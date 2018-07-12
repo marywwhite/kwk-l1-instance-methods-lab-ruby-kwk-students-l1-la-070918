@@ -12,3 +12,5 @@ class Dog
   
 end
 
+Dog.new.bark
+Dog.new.sit
