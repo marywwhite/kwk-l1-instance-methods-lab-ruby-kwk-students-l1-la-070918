@@ -1,7 +1,9 @@
 # dog.rb
 
 class Dog
-  def initialize
+  def bark
+    
+  end
     
 
 end
